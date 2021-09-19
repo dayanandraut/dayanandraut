@@ -6,7 +6,7 @@
 - 🌱 Learning all about Open Source, system design
 - 👯 I’m looking to collaborate on open source projects and research works. 
 - 💬 Ask me about web development, problem solving, data structures and algorithms, machine learning, big data, data mining, cloud computing.
-- 📫 Feel free to reach me at 📧 [dayanandraut2015@gmail.com](mailto:dayanandraut2015@gmail.com)  
+- 📫 Feel free to reach me at 📧 [dayanand.raut97@gmail.com](mailto:dayanand.raut97@gmail.com)  
 - 😄 Pronouns: He / Him / Daya
 - ⚡ Fun fact: I love travelling, watching anime and playing badminton.
 
