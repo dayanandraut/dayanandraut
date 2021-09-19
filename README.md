@@ -18,6 +18,6 @@
 
 ### One day, I want to
 - take pictures 📷 while travelling around the world 🌎
-- work for the FAANGM company 👩‍💻🏢
+- work for the FAANGMTL company 👩‍💻🏢
 - teach 👨‍🏫
 
